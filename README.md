@@ -1,1 +1,1 @@
-# Application Adding Developer B Story.
+# Story Updated by Developer B.
